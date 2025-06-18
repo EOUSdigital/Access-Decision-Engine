@@ -1,4 +1,4 @@
-# Module 5 – Lesson 03.01: Comparison and Logical Operators - Challenge
+# Module 5 – Lesson 03.02: Comparison and Logical Operators - Challenge
 ## ✅ Step 4: Access Decision Engine
 
 ---
